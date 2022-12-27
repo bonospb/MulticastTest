@@ -37,6 +37,7 @@ ExportedObj/
 .idea
 JetBrains*
 .vs/*
+*.vsconfig
 /Assets/UnityVS/
 /Assets/UnityVS.*
 UnityVS.joust.sln.DotSettings
@@ -62,3 +63,4 @@ Thumbs.db.meta
 /Assets/Resources/Cubemaps/GlobalReflection.cubemap*
 /Assets/Sprites/Mocaps/
 /Assets/Sprites/Mocaps.*
+
